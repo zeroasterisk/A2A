@@ -83,6 +83,18 @@ Building an A2A agent in a language not covered by the [official SDKs](./sdk/ind
 
 [EmilLindfors/a2a-rs](https://github.com/EmilLindfors/a2a-rs) · A2A spec v0.3.0 · Modular workspace with core protocol, AP2 extension, and agent framework.
 
+### 🦀 Rust — a2a-rs-server
+
+![Stars](https://img.shields.io/github/stars/tolgaki/a2a-rs?style=flat-square) [![Crate](https://img.shields.io/crates/v/a2a-rs-server?style=flat-square)](https://crates.io/crates/a2a-rs-server)
+
+[tolgaki/a2a-rs](https://github.com/tolgaki/a2a-rs) · A2A spec v1.0.0 · JSON-RPC server framework, SSE streaming, and v0.3 compatibility.
+
+### 🦀 Rust — a2a-rs-client
+
+![Stars](https://img.shields.io/github/stars/tolgaki/a2a-rs?style=flat-square) [![Crate](https://img.shields.io/crates/v/a2a-rs-client?style=flat-square)](https://crates.io/crates/a2a-rs-client)
+
+[tolgaki/a2a-rs](https://github.com/tolgaki/a2a-rs) · A2A spec v1.0.0 · Async client with reqwest, SSE streaming, and v0.3 compatibility.
+
 ### 🍎 Swift — A2AClient
 
 ![Stars](https://img.shields.io/github/stars/tolgaki/a2a-client-swift?style=flat-square)
